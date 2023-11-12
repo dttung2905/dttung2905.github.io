@@ -6,7 +6,7 @@ base_url = "https://dttung2905.github.io"
 # it is recommended that you keep those of your language and the general
 # ones with the same data.
 #default_language = "en"
-theme = "hayflow"
+theme = "ataraxia"
 
 # To find a detailed description of the following configuration variables
 # you can go to https://www.getzola.org/documentation/getting-started/configuration/
