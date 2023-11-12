@@ -1,12 +1,12 @@
 # The base URL of the site.
-base_url = "dttung2905.github.io"
+base_url = "https://dttung2905.github.io"
 
 # To avoid problems with some variables due to multilingual support,
 # you will find repeated variables in the language section,
 # it is recommended that you keep those of your language and the general
 # ones with the same data.
 #default_language = "en"
-theme = "ataraxia"
+theme = "hayflow"
 
 # To find a detailed description of the following configuration variables
 # you can go to https://www.getzola.org/documentation/getting-started/configuration/
